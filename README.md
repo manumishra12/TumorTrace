@@ -31,8 +31,26 @@ This project involves several critical steps to ensure effective brain tumor seg
 
 ## Curve and Plots
 
+### Accuracy
+Accuracy measures the proportion of correctly classified instances out of the total instances in a dataset. It provides a straightforward assessment of a model's performance, especially in balanced datasets.
+
+### Loss
+Loss quantifies the difference between predicted values and actual values during model training. A lower loss indicates better model performance, guiding the optimization process to improve predictions.
+
+### Intersection over Union (IoU)
+IoU is a metric used to evaluate the accuracy of object detection and segmentation models. It calculates the overlap between the predicted segmentation area and the ground truth area, with values ranging from 0 to 1, where 1 indicates perfect overlap.
+
 <img src="loss.png" alt="Small Image" width="700" height="350">
 
 <img src="iou.png" alt="Small Image" width="700" height="350">
 
 <img src="accuracypng.png" alt="Small Image" width="700" height="350">
+
+
+## Result
+
+<img src="result1.png" alt="Small Image" width="700" height="350">
+
+<img src="result2.png" alt="Small Image" width="700" height="350">
+
+## Consclusion
