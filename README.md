@@ -49,8 +49,8 @@ IoU is a metric used to evaluate the accuracy of object detection and segmentati
 
 ## Result
 
-<img src="result1.png" alt="Small Image" width="700" height="350">
+<img src="result1.png" alt="Small Image" width="700" height="450">
 
-<img src="result2.png" alt="Small Image" width="700" height="350">
+<img src="result2.png" alt="Small Image" width="700" height="450">
 
 ## Consclusion
