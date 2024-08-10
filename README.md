@@ -49,7 +49,7 @@ IoU is a metric used to evaluate the accuracy of object detection and segmentati
 
 ## Result
 
-The results of brain tumor segmentation typically include visualized segmented regions overlaid on original MRI images, allowing for clear identification of tumor boundaries. Metrics such as Dice coefficient and Intersection over Union (IoU) are used to quantify segmentation accuracy, often showing high scores that indicate effective model performance. Additionally, post-processing techniques can enhance the quality of the segmentation masks, improving clinical usability.
+The results of brain tumor segmentation typically include visualized segmented regions overlaid on original MRI images, allowing for clear identification of tumor boundaries. Metrics such as the Dice coefficient and Intersection over Union (IoU) are used to quantify segmentation accuracy, often showing high scores that indicate effective model performance. Additionally, post-processing techniques can enhance the quality of the segmentation masks, improving clinical usability.
 
 <img src="result1.png" alt="Small Image" width="700" height="450">
 
@@ -60,10 +60,10 @@ More output as above (in the file)
 
 ## Consclusion
 
-In conclusion, using advanced models like U-Net, brain tumor segmentation demonstrates significant potential in enhancing diagnostic accuracy in medical imaging. The effectiveness of the segmentation can be visualized through overlaid images of predicted tumor regions against the ground truth, showcasing the model's ability to accurately delineate tumor boundaries. Evaluation metrics such as Dice coefficient and IoU provide quantitative measures of performance, reinforcing the model's reliability for clinical applications.
+In conclusion, using advanced models like U-Net, brain tumor segmentation demonstrates significant potential in enhancing diagnostic accuracy in medical imaging. The effectiveness of the segmentation can be visualized through overlaid images of predicted tumor regions against the ground truth, showcasing the model's ability to accurately delineate tumor boundaries. Evaluation metrics such as the Dice coefficient and IoU provide quantitative measures of performance, reinforcing the model's reliability for clinical applications.
 
-#Prediction
-<img src="curve1.png" alt="Small Image" width="700" height="450">
+### Prediction
+<img src="curve1.png" alt="Small Image" width="500" height="250">
 
-#Correctness
-<img src="curve2.png" alt="Small Image" width="700" height="450">
+### Correctness
+<img src="curve2.png" alt="Small Image" width="500" height="250">
