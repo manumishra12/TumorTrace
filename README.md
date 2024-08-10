@@ -34,6 +34,7 @@ This project involves several critical steps to ensure effective brain tumor seg
 ### LGG Segmentation Dataset
 The LGG Segmentation Dataset is utilized in research by Mateusz Buda et al. and Maciej A. Mazurowski et al., focusing on the association of genomic subtypes of lower-grade gliomas with shape features extracted through deep learning. This dataset comprises brain MRI images along with manual FLAIR abnormality segmentation masks, sourced from The Cancer Imaging Archive (TCIA). It includes data from 110 patients from The Cancer Genome Atlas (TCGA) lower-grade glioma collection, featuring FLAIR sequences and corresponding genomic cluster data. Additional patient information is available in a data.csv file. For comprehensive genomic details, refer to the publication “Comprehensive, Integrative Genomic Analysis of Diffuse Lower-Grade Gliomas”.https://www.nejm.org/doi/full/10.1056/NEJMoa1402121
 
+
 ## Curve and Plots
 
 ### Accuracy
