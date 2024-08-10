@@ -4,7 +4,7 @@ The TumorTrace project aims to develop an automated system for identifying and s
 Our goal is to provide a robust solution for automated tumor detection, which can significantly aid in clinical decision-making.
 <br>
 
-<img src="unet.png" alt="Small Image" width="700" height="450">
+<img src="unet.png" alt="Small Image" width="700" height="550">
 
 <hr>
 
