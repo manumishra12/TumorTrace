@@ -49,8 +49,6 @@ This project involves several critical steps to ensure effective brain tumor seg
 10. **Deployment**:
     - Deploy the trained model for practical use, automating tumor segmentation in clinical settings or integrating it into medical image analysis software.
 
-## Getting Started
+## Working Architecture
 
-To get started, clone this repository and follow the instructions in the documentation for setting up the environment and running the segmentation model. Your contributions and feedback are welcome as we strive to improve this project!
-
-I appreciate your interest in brain tumor segmentation using deep learning!
+<img src="Working.png" alt="Small Image" width="700" height="350">
