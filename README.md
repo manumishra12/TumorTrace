@@ -2,6 +2,7 @@
 
 The TumorTrace project aims to develop an automated system for identifying and segmenting tumor regions in brain MRI images. Accurate segmentation is crucial for diagnosis, treatment planning, and monitoring of brain tumors. This project utilizes the U-Net architecture, a popular deep-learning model designed for image segmentation tasks, particularly in medical imaging.
 Our goal is to provide a robust solution for automated tumor detection, which can significantly aid in clinical decision-making.
+<br>
 
 <img src="unet.png" alt="Small Image" width="700" height="350">
 
