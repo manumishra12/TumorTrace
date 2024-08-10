@@ -60,4 +60,10 @@ More output as above (in the file)
 
 ## Consclusion
 
-In conclusion, brain tumor segmentation using advanced models like U-Net demonstrates significant potential in enhancing diagnostic accuracy in medical imaging. The effectiveness of the segmentation can be visualized through overlaid images of predicted tumor regions against the ground truth, showcasing the model's ability to accurately delineate tumor boundaries. Evaluation metrics such as Dice coefficient and IoU provide quantitative measures of performance, reinforcing the model's reliability for clinical applications.
+In conclusion, using advanced models like U-Net, brain tumor segmentation demonstrates significant potential in enhancing diagnostic accuracy in medical imaging. The effectiveness of the segmentation can be visualized through overlaid images of predicted tumor regions against the ground truth, showcasing the model's ability to accurately delineate tumor boundaries. Evaluation metrics such as Dice coefficient and IoU provide quantitative measures of performance, reinforcing the model's reliability for clinical applications.
+
+#Prediction
+<img src="curve1.png" alt="Small Image" width="700" height="450">
+
+#Correctness
+<img src="curve2.png" alt="Small Image" width="700" height="450">
