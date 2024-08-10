@@ -28,3 +28,11 @@ This project involves several critical steps to ensure effective brain tumor seg
 ## Working Architecture
 
 <img src="Working.png" alt="Small Image" width="700" height="350">
+
+## Curve and Plots
+
+<img src="loss.png" alt="Small Image" width="700" height="350">
+
+<img src="iou.png" alt="Small Image" width="700" height="350">
+
+<img src="accuracypng.png" alt="Small Image" width="700" height="350">
