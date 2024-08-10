@@ -1,8 +1,9 @@
 # TumorTrace
 
-# Brain Tumor Segmentation Using U-Net Architecture
+The TumorTrace project aims to develop an automated system for identifying and segmenting tumor regions in brain MRI images. Accurate segmentation is crucial for diagnosis, treatment planning, and monitoring of brain tumors. This project utilizes the U-Net architecture, a popular deep-learning model designed for image segmentation tasks, particularly in medical imaging.
+Our goal is to provide a robust solution for automated tumor detection, which can significantly aid in clinical decision-making.
 
-Welcome to the Brain Tumor Segmentation project! This repository contains a comprehensive implementation of the U-Net architecture for segmenting brain tumors from MRI images. Our goal is to provide a robust solution for automated tumor detection, which can significantly aid in clinical decision-making.
+<hr>
 
 ## Overview
 
@@ -26,7 +27,7 @@ This project involves several critical steps to ensure effective brain tumor seg
    - Use convolutional layers with appropriate activation functions (e.g., ReLU), pooling layers (e.g., max pooling), and upsampling layers (e.g., transposed convolution) to build the network.
 
 5. **Loss Function Selection**:
-   - Choose an appropriate loss function for training the model. Common choices for binary segmentation include binary cross-entropy loss, Dice loss, and Jaccard loss.
+   - Choose an appropriate loss function to train the model. Common choices for binary segmentation include binary cross-entropy loss, Dice loss, and Jaccard loss.
 
 6. **Training the Model**:
    - Train the U-Net model on the training dataset using the selected loss function and an optimization algorithm (e.g., Adam optimizer).
@@ -49,4 +50,4 @@ This project involves several critical steps to ensure effective brain tumor seg
 
 To get started, clone this repository and follow the instructions in the documentation for setting up the environment and running the segmentation model. Your contributions and feedback are welcome as we strive to improve this project!
 
-Thank you for your interest in brain tumor segmentation using deep learning!
+I appreciate your interest in brain tumor segmentation using deep learning!
